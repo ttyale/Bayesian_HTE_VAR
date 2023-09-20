@@ -1,4 +1,4 @@
-# Bayesian_HTE_VAR
+# Bayesian_HTE
 # Author: Guangyu Tong et al.
 # Description: This folder includes the data analysis code for the paper entitled "Hierarchical Bayesian modeling of heterogeneous outcome variance in cluster randomized trials". The folder contains 3 files and documentations for each file are summarized below.
 # Documentations:
